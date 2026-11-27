@@ -8,7 +8,19 @@ public class ControleFinanceiro {
         //Receita
 
         System.out.println("digite o valor do seu sálario");
-        Receita = entrada.nextInt();      
+        int receita;
+        receita = entrada.nextInt();
+
+        //Despesa
+
+        System.out.println("Oque voce precisa pagar?");
+        String nome.despesa;
+        nome.despesa = entrada.nextInt();
+        
+        System.out.println("qual o valor desta despesa?");
+        int valor.despesa;
+        valor.despesa = entrada.nextInt();
+  
         }
 }
 
