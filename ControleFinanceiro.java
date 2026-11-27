@@ -20,6 +20,16 @@ public class ControleFinanceiro {
         System.out.println("qual o valor desta despesa?");
         int valor.despesa;
         valor.despesa = entrada.nextInt();
+
+        //Meta
+
+        System.out.println("Qual é a sua meta?");
+        String nome.meta;
+        nome.meta = entrada.nextInt();
+        
+        System.out.println("qual o valor desta sua meta?");
+        int valor.alvo;
+        valor.alvo = entrada.nextInt();
   
         }
 }
